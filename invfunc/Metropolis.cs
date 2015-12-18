@@ -12,6 +12,7 @@ namespace invfunc
 	public class Metropolis
 	{
 		double A, B, xFmax;
+		double xi1, xi;
 		RealFunction F;		// PDF
 
 		/// <summary>
@@ -28,6 +29,7 @@ namespace invfunc
 			B = b;
 			xFmax = xfmax;
 			F = fx;
+			xi = xFmax;
 		}
 
 		/// <summary>
@@ -37,7 +39,7 @@ namespace invfunc
 		/// <returns></returns>
 		public double Generate(Random rand)
 		{
-			double xi = xFmax, xi1, rel, delta = (B-A);
+			double rel, delta = (B-A);
 			while(true)
 			{
 				xi1 = xi - delta * (1 - rand.NextDouble() * 2.0);
