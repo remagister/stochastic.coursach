@@ -1,0 +1,46 @@
+E:\Programming\сs\Kursach\MaxwellDistribution\bin\Debug\MaxwellDistribution.exe.config
+E:\Programming\сs\Kursach\MaxwellDistribution\bin\Debug\MaxwellDistribution.exe
+E:\Programming\сs\Kursach\MaxwellDistribution\bin\Debug\MaxwellDistribution.pdb
+E:\Programming\сs\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.csprojResolveAssemblyReference.cache
+E:\Programming\сs\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.Properties.Resources.resources
+E:\Programming\сs\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.csproj.GenerateResource.Cache
+E:\Programming\сs\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.exe
+E:\Programming\сs\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.pdb
+E:\Programming\сs\Kursach\MaxwellDistribution\bin\Debug\invfunc.dll
+E:\Programming\сs\Kursach\MaxwellDistribution\bin\Debug\invfunc.pdb
+E:\Programming\сs\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.Form1.resources
+C:\Users\Саша\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\bin\Debug\MaxwellDistribution.exe.config
+C:\Users\Саша\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.exe
+C:\Users\Саша\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.pdb
+C:\Users\Саша\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\bin\Debug\MaxwellDistribution.exe
+C:\Users\Саша\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\bin\Debug\MaxwellDistribution.pdb
+C:\Users\Саша\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\bin\Debug\invfunc.dll
+C:\Users\Саша\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\bin\Debug\invfunc.pdb
+C:\Users\Саша\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.csprojResolveAssemblyReference.cache
+C:\Users\Саша\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.Form1.resources
+C:\Users\Саша\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.Properties.Resources.resources
+C:\Users\Саша\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.csproj.GenerateResource.Cache
+D:\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\bin\Debug\MaxwellDistribution.exe.config
+D:\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.exe
+D:\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.pdb
+D:\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\bin\Debug\MaxwellDistribution.exe
+D:\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\bin\Debug\MaxwellDistribution.pdb
+D:\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\bin\Debug\invfunc.dll
+D:\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\bin\Debug\invfunc.pdb
+D:\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.Form1.resources
+D:\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.Properties.Resources.resources
+D:\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.csproj.GenerateResource.Cache
+E:\Yadisk\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\bin\Debug\MaxwellDistribution.exe.config
+E:\Yadisk\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.exe
+E:\Yadisk\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.pdb
+E:\Yadisk\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\bin\Debug\MaxwellDistribution.exe
+E:\Yadisk\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\bin\Debug\MaxwellDistribution.pdb
+E:\Yadisk\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\bin\Debug\invfunc.dll
+E:\Yadisk\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\bin\Debug\invfunc.pdb
+E:\Yadisk\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.csprojResolveAssemblyReference.cache
+E:\Yadisk\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.Form1.resources
+E:\Yadisk\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.Properties.Resources.resources
+E:\Yadisk\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.csproj.GenerateResource.Cache
+D:\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.ChartForm.resources
+E:\Yadisk\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\MaxwellDistribution\obj\Debug\MaxwellDistribution.ChartForm.resources

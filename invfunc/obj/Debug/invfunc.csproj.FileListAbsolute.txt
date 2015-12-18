@@ -1,0 +1,20 @@
+E:\Programming\сs\Kursach\invfunc\bin\Debug\invfunc.dll
+E:\Programming\сs\Kursach\invfunc\bin\Debug\invfunc.pdb
+E:\Programming\сs\Kursach\invfunc\obj\Debug\invfunc.csprojResolveAssemblyReference.cache
+E:\Programming\сs\Kursach\invfunc\obj\Debug\invfunc.dll
+E:\Programming\сs\Kursach\invfunc\obj\Debug\invfunc.pdb
+C:\Users\Саша\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\invfunc\bin\Debug\invfunc.dll
+C:\Users\Саша\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\invfunc\bin\Debug\invfunc.pdb
+C:\Users\Саша\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\invfunc\obj\Debug\invfunc.csprojResolveAssemblyReference.cache
+C:\Users\Саша\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\invfunc\obj\Debug\invfunc.dll
+C:\Users\Саша\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\invfunc\obj\Debug\invfunc.pdb
+D:\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\invfunc\obj\Debug\invfunc.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\invfunc\obj\Debug\invfunc.dll
+D:\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\invfunc\bin\Debug\invfunc.dll
+D:\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\invfunc\bin\Debug\invfunc.pdb
+D:\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\invfunc\obj\Debug\invfunc.pdb
+E:\Yadisk\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\invfunc\bin\Debug\invfunc.dll
+E:\Yadisk\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\invfunc\bin\Debug\invfunc.pdb
+E:\Yadisk\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\invfunc\obj\Debug\invfunc.csprojResolveAssemblyReference.cache
+E:\Yadisk\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\invfunc\obj\Debug\invfunc.dll
+E:\Yadisk\YandexDisk\Serenium Dev Group\University\Stochastic\Senya\Kursach\invfunc\obj\Debug\invfunc.pdb
